@@ -3,8 +3,9 @@
 
 <h2> Problem Statement:</h2> 
 
-- As a security/defense analyst, try to find out the hot zone of terrorism.
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+- As a security/defense analyst, try to find out the hot zone of terrorism.
+
 
 <h2>Task Completed:</h2>
 
