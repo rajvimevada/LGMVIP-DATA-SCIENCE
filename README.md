@@ -9,7 +9,6 @@
 <h2> Problem Statement</h2> 
 
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
-
 - As a security/defense analyst, try to find out the hot zone of terrorism.
 
 
@@ -36,7 +35,9 @@ The analysis of the dataset reveals that the Middle East and North Africa (MENA)
 
 
 <h2>Probelm Statement</h2>
-Create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+- Create the Decision Tree classifier and visualize it graphically. 
+- The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 
 <h2>Approach</h2>
